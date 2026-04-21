@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm Dylan — Platform Engineer based in Germany
 
-<!--
-**pydeepzp/pydeepzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and operate production Kubernetes platforms at scale — from cluster lifecycle and GitOps delivery pipelines to internal operators, secrets management, and multi-tenant infrastructure.
 
-Here are some ideas to get you started:
+Most of my work lives in private org repos: RKE2 clusters, Argo CD fleets, Vault operators, and Helm chart monorepos. This profile tracks personal projects and open contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**What I work on**
+
+- Multi-tenant Kubernetes platforms on-prem (RKE2 · Cluster API · vSphere)
+- GitOps delivery at scale (Argo CD · Helm · OCI registries · GitLab CI/CD)
+- Internal tooling in Go (Vault tenant operator · NetBox IPAM operator)
+- Secrets management and multi-tenant isolation (HashiCorp Vault)
+- Infrastructure automation (OpenTofu · Terraform · Ansible)
+- Observability stacks (Prometheus · Grafana · Alertmanager)
+
+**Certifications**
+
+CKA · CKAD · CKS · AZ-900
+
+---
+
+**Links**
+
+- Site & case studies → [dtng.dev](https://dtng.dev)
+- Email → [dytchawou@gmail.com](mailto:dytchawou@gmail.com)
+- LinkedIn → [dylan-tchawou-ngassam](https://www.linkedin.com/in/dylan-tchawou-ngassam-5239871a6/)
