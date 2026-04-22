@@ -19,10 +19,3 @@ Most of my work lives in private org repos: RKE2 clusters, Argo CD fleets, Vault
 
 CKA · CKAD · CKS · AZ-900
 
----
-
-**Links**
-
-- Site & case studies → [dtng.dev](https://dtng.dev)
-- Email → [dytchawou@gmail.com](mailto:dytchawou@gmail.com)
-- LinkedIn → [dylan-tchawou-ngassam](https://www.linkedin.com/in/dylan-tchawou-ngassam-5239871a6/)
